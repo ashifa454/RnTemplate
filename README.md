@@ -27,8 +27,11 @@ It's not just some ordinary React native Boilerplate, i have added some of my fa
  7. debug if it got any error in java Classes which it will, cd into ***android*** folder and run ***./gradlew clean***
 
 ## ScreenShots? :metal:
-![Wix Navigation](https://i.imgur.com/jNadUFY.png)
-![native-Base With VectorIcons and Human Typegraphy](https://i.imgur.com/JmwUX0I.png)
+
+ - https://i.imgur.com/JmwUX0I.png
+ - https://i.imgur.com/dkaSsVA.png
+ - https://i.imgur.com/jNadUFY.png
+
 ## Cool Now What? :metal:
 
  - Read Documentation
